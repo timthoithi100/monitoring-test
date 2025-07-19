@@ -14,14 +14,6 @@ This project showcases how to instrument a Python Flask application with Prometh
 - **Request Monitoring**: Tracks request counts, latency, and in-progress requests
 - **Metrics Endpoint**: Exposes metrics in Prometheus format for scraping
 
-## Project Structure
-
-```
-monitoring-test/
-├── app.py              # Main Flask application with Prometheus metrics
-└── README.md           # Project documentation (this file)
-```
-
 ## Prerequisites
 
 - Python 3.6+
